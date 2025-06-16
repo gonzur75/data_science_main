@@ -37,6 +37,7 @@ dependencies = [
     "plotly>=6.1.2",
     "scikit-learn>=1.7.0",
     "xgboost>=3.0.2",
+    "pandas-stubs==2.2.3.250527",
 ]
 requires-python = "~=3.12.0"
 
